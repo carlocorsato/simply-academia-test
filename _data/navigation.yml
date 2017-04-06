@@ -1,0 +1,13 @@
+# Site navigation links
+
+- title: About
+  url: /about/
+
+- title: Articles & Posts
+  url: /samples/
+
+- title: Theme Setup
+  url: /theme-setup/
+
+- title: Search
+  url: /search/
